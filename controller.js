@@ -1,4 +1,4 @@
-var log = [];
+var log = []; 
 
     exports.displayNumOrders = (orders) => {
     console.log(`Number of orderss is: ${orders}`);
